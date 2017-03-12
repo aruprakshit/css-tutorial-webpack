@@ -1,0 +1,14 @@
+.nav {
+	width: 200px;
+	min-height: 400px;
+	background-color: blue;
+	padding: 40px;
+	box-sizing: border-box;
+	border: 10px solid yellow;
+
+}
+
+a {
+	display: block;
+	color: white;
+}
